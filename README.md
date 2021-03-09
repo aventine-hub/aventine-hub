@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/Ey6KGjN.png?1" />
+
 Hello there, my name is Chris Long and I am a creative and result-oriented full-stack web developer with a passion for learning. 
 
 
