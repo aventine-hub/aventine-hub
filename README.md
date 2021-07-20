@@ -4,9 +4,7 @@ Hello there, my name is **Chris Long** and I am a creative and result-oriented f
 
 I’m currently working with *React* :atom: and *Python* :snake:. I’m currently deep diving back into *responsive CSS* and *semantic HTML*. 🌱
 
-Contact me on [LI](https://www.linkedin.com/in/chrisallenlong/).
-
-
+📫📫 Contact me on [LI](https://www.linkedin.com/in/chrisallenlong/).
 
 <!--
 **aventine-hub/aventine-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
