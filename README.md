@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/GvURjE2.png" />
 
-✨ Hello there, my name is **Chris Long** and I am a creative and result-oriented full-stack web developer with a passion for learning.
+Hello there, my name is **Chris Long** and I am a creative and result-oriented full-stack web developer with a passion for learning.
 
 I’m currently working with *React* :atom: and *Python* :snake:. I’m currently deep diving back into *responsive CSS* and *semantic HTML*. 🌱
 
