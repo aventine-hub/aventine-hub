@@ -2,7 +2,7 @@
 
 Hello there, my name is **Chris Long** and I am a creative and result-oriented full-stack web developer with a passion for learning.
 
-I’m currently working with *React* :atom: and *Python* :snake:. I’m currently deep diving back into *responsive CSS* and *semantic HTML*. 🌱
+I’m currently working with *React* :atom: and *Python* :snake:. I’m also currently deep diving back into *Javascript*. 🌱
 
 📫📫 Contact me on [LI](https://www.linkedin.com/in/chrisallenlong/).
 
