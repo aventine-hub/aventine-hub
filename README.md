@@ -2,11 +2,12 @@
 
 Hello there, my name is **Chris Long** and I am a creative and result-oriented full-stack web developer with a passion for learning.
 
-I’m currently working with *Python* . 
-
-Contact me on [LI](https://www.linkedin.com/in/chrisallenlong/).
+🌱 Contact me on [LI](https://www.linkedin.com/in/chrisallenlong/).
 
 <!--
+
+I’m currently working with *Python* . 
+
 **aventine-hub/aventine-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I’m also currently deep diving back into *Javascript*. 🌱 :snake:
 Here are some ideas to get you started:
